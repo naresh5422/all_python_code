@@ -1,6 +1,5 @@
-# python_interview_QandA in all my interviews
 
-Added the recent python coding questions with answers
+Added python coding questions with answers
 
 1. Find N number of Factorials?
 2. Queues?
